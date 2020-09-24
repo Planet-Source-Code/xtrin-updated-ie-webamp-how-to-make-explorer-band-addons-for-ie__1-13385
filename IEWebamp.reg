@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Extensions\{58C8F974-6F2B-471E-A0C8-10776537AB9E}]
+"BandCLSID"="{2616531D-FA53-408B-87AA-2A874972B272}"
+"ButtonText"="IE Webamp"
+"CLSID"="{E0DD6CAB-2D10-11D2-8F1A-0000F87ABD16}"
+"Icon"="C:\\My Documents\\gems.ico"
+
